@@ -8,7 +8,7 @@ As a passionate software developer, I thrive on transforming ideas into elegant 
 
 * 🌍  I'm based in Accra
 * ✉️  You can contact me at [henrycoffie22@gmail.com](mailto:henrycoffie22@gmail.com)
-* 🤝  I'm open to collaborating on I am open to collaborate on projects
+* 🤝  I am open to collaborate on projects
 * ⚡  Luffy is the one who would be the King of the Pirates...!
 
 ### Skills
